@@ -1,7 +1,7 @@
 {
   "name": "dvnk-icons",
   "main": "index",
-  "version": "0.1.0",
+  "version": "1.6.9",
   "description": "Assign file extension icons and colours for improved visual grepping",
   "repository": {
     "type": "git",
