@@ -9,50 +9,54 @@
  * @d<x> = .dark-<x> (<x> darkened 15%)
  */
 
+ // BASIC COLORS
+@color-default: #81a2be;
+
 // Red Colors
-@mr: #AC4142;
-@lr: lighten(@mr, 15%);
-@dr: darken(@mr, 15%);
+@mr: #ea6153;
+@lr: lighten(@mr, 10%);
+@dr: darken(@mr, 5%);
 
 // Green colors
-@mg: #90A959;
-@lg: lighten(@mg, 15%);
-@dg: darken(@mg, 15%);
+@mg: #1abc9c;
+@lg: lighten(@mg, 10%);
+@dg: darken(@mg, 5%);
 
 // Yellow colors
-@my: #F4BF75;
-@ly: lighten(@my, 15%);
-@dy: darken(@my, 15%);
+@my: #e86a34;
+@ly: lighten(@my, 5%);
+@dy: darken(@my, 5%);
 
 // Blue colors
-@mb: #6A9FB5;
-@lb: lighten(@mb, 15%);
-@db: darken(@mb, 15%);
+@mb: #3498db;
+@lb: lighten(@mb, 5%);
+@db: darken(@mb, 5%);
 
 // Maroon colors
-@mm: #8F5536;
-@lm: lighten(@mm, 15%);
-@dm: darken(@mm, 15%);
+@mm: #766aed;
+@lm: lighten(@mm, 10%);
+@dm: darken(@mm, 5%);
 
 // Purple colors
-@mp: #AA759F;
-@lp: lighten(@mp, 15%);
-@dp: darken(@mp, 15%);
+@mp: #9b59b6;
+@lp: lighten(@mp, 10%);
+@dp: darken(@mp, 5%);
 
 // Orange colors
-@mo: #D28445;
-@lo: lighten(@mo, 15%);
-@do: darken(@mo, 15%);
+@mo: #e86a34;
+@lo: lighten(@my, 5%);
+@do: darken(@my, 5%);
 
 // Cyan colors
-@mc: #75B5AA;
-@lc: lighten(@mc, 15%);
-@dc: darken(@mc, 15%);
+@mc: #6ae1ed;
+@lc: lighten(@mc, 10%);
+@dc: darken(@mc, 5%);
 
 // Pink colors
-@mpk: #ff00cc;
-@lpk: lighten(@mpk, 15%);
-@dpk: darken(@mpk, 15%);
+@mpk: #ea53dc;
+@lpk: lighten(@mpk, 10%);
+@dpk: darken(@mpk, 5%);
+
 
 .light-red when (@colored-icons) { color: @lr; }
 .medium-red when (@colored-icons) { color: @mr; }
