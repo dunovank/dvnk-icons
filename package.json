@@ -1,14 +1,12 @@
 {
-  "name": "file-icons",
+  "name": "dunovank-file-icons",
   "main": "index",
-  "version": "1.6.18",
-  "private": true,
+  "version": "0.0.0",
   "description": "Assign file extension icons and colours for improved visual grepping",
   "repository": {
     "type": "git",
     "url": "https://github.com/dunovank/file-icons"
   },
-  "license": "MIT",
   "engines": {
     "atom": ">0.181.0"
   },
@@ -19,10 +17,4 @@
     "url": "https://github.com/dunovank/file-icons/issues"
   },
   "homepage": "https://github.com/dunovank/file-icons",
-  "_id": "file-icons@0.3.0",
-  "dist": {
-    "shasum": "a0af88e3c747d4d551db8963c46c11a128ecd970"
-  },
-  "_resolved": "/tmp/d-114420-25477-k8rnxd/package.tgz",
-  "_from": "/tmp/d-114420-25477-k8rnxd/package.tgz"
 }
