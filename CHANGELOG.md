@@ -7,7 +7,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 [1.6.18] - 2016-03-06
 ---------------------
 ### Fixed
-- [[`#296`](https://github.com/DanBrooker/file-icons/issues/296)]
+- [[`#296`](https://github.com/DanBrooker/dvnk-icons/issues/296)]
             Riot tag too large in Atom Material theme's tree view
 
 
@@ -18,9 +18,9 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 - NPM icon changed to use block-shaped "n" used by npmjs.com
 
 ### Fixed
-- [[`#284`](https://github.com/DanBrooker/file-icons/issues/284)]
+- [[`#284`](https://github.com/DanBrooker/dvnk-icons/issues/284)]
             Pattern matching used for task runner config files
-- [[`#246`](https://github.com/DanBrooker/file-icons/issues/246)]
+- [[`#246`](https://github.com/DanBrooker/dvnk-icons/issues/246)]
             Text-file icons not showing in Flatland Dark UI theme
 
 
@@ -65,9 +65,9 @@ This project adheres to [Semantic Versioning](http://semver.org/).
   [4.4](https://github.com/FortAwesome/Font-Awesome/releases/tag/v4.4.0)
 
 ### Fixed
-- [[`#239`](https://github.com/DanBrooker/file-icons/issues/239)]
+- [[`#239`](https://github.com/DanBrooker/dvnk-icons/issues/239)]
             Bottom border of inactive tabs hidden/incomplete
-- [[`#248`](https://github.com/DanBrooker/file-icons/issues/248)]
+- [[`#248`](https://github.com/DanBrooker/dvnk-icons/issues/248)]
             Incorrect alignment/centring of React/JSX icon
 
 
@@ -82,7 +82,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 - Optimised version of preview image
 
 ### Changed
-- Merged `latex`, `iconsxd` and `fontcustom` fonts into `file-icons`
+- Merged `latex`, `iconsxd` and `fontcustom` fonts into `dvnk-icons`
 
 ### Removed
 - `iconsxd`, `fontcustom` and `latex` fonts
@@ -247,7 +247,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 [1.5.1] - 2015-03-08
 --------------------
 ### Added
-- **New fonts:** `file-icons` for JSX and React icons
+- **New fonts:** `dvnk-icons` for JSX and React icons
 - **New icons:** JSX, React
 
 
@@ -283,7 +283,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 - **Support:** Nodemon
 
 ### Fixed
-- [[`#103`](https://github.com/DanBrooker/file-icons/issues/103)]
+- [[`#103`](https://github.com/DanBrooker/dvnk-icons/issues/103)]
             Tab icons for Settings and Release Notes disappearing
 
 
@@ -309,7 +309,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 [1.4.6] - 2015-01-15
 --------------------
 ### Fixed
-- [[`#104`](https://github.com/DanBrooker/file-icons/issues/104)]
+- [[`#104`](https://github.com/DanBrooker/dvnk-icons/issues/104)]
             Updated core selectors to use new custom elements
 
 ### Changed
@@ -417,7 +417,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 [1.3.2] - 2014-08-01
 --------------------
 ### Fixed
-- [[`#57`](https://github.com/DanBrooker/file-icons/issues/57)]
+- [[`#57`](https://github.com/DanBrooker/dvnk-icons/issues/57)]
            Console error causing dev tools to open when reloading window
 
 
@@ -433,7 +433,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 - Font smoothing to improve icon appearance on Mac OS
 
 ### Changed
-- [[`#54`](https://github.com/DanBrooker/file-icons/issues/54)]
+- [[`#54`](https://github.com/DanBrooker/dvnk-icons/issues/54)]
            Reverted CoffeeScript to use pre-1.3.0 icon
 - Reverted C and C++ files to use generic icons
 
@@ -482,7 +482,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 [1.2.4] - 2014-06-29
 --------------------
 ### Fixed
-- [[`#30`](https://github.com/DanBrooker/file-icons/issues/30)]
+- [[`#30`](https://github.com/DanBrooker/dvnk-icons/issues/30)]
            Text of active tab vertically misaligned
 
 
@@ -539,7 +539,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 [1.0.2] - 2014-05-28
 --------------------
 ### Fixed
-- [[`#7`](https://github.com/DanBrooker/file-icons/issues/7)]:
+- [[`#7`](https://github.com/DanBrooker/dvnk-icons/issues/7)]:
           Incorrectly-centred icons
 
 
@@ -547,7 +547,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 [1.0.1] - 2014-05-26
 --------------------
 ### Fixed
-- [[`#6`](https://github.com/DanBrooker/file-icons/issues/6)]:
+- [[`#6`](https://github.com/DanBrooker/dvnk-icons/issues/6)]:
           Console error when opening a project in dev mode
 
 
@@ -588,60 +588,60 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 Initial release.
 
 
-[Unreleased]: https://github.com/DanBrooker/file-icons/compare/v1.6.18...HEAD
-[1.6.18]: https://github.com/DanBrooker/file-icons/compare/v1.6.17...v1.6.18
-[1.6.17]: https://github.com/DanBrooker/file-icons/compare/v1.6.16...v1.6.17
-[1.6.16]: https://github.com/DanBrooker/file-icons/compare/v1.6.15...v1.6.16
-[1.6.15]: https://github.com/DanBrooker/file-icons/compare/v1.6.14...v1.6.15
-[1.6.14]: https://github.com/DanBrooker/file-icons/compare/v1.6.13...v1.6.14
-[1.6.13]: https://github.com/DanBrooker/file-icons/compare/v1.6.12...v1.6.13
-[1.6.12]: https://github.com/DanBrooker/file-icons/compare/v1.6.11...v1.6.12
-[1.6.11]: https://github.com/DanBrooker/file-icons/compare/v1.6.10...v1.6.11
-[1.6.10]: https://github.com/DanBrooker/file-icons/compare/v1.6.8...v1.6.10
-[1.6.8]: https://github.com/DanBrooker/file-icons/compare/v1.6.7...v1.6.8
-[1.6.7]: https://github.com/DanBrooker/file-icons/compare/v1.6.6...v1.6.7
-[1.6.6]: https://github.com/DanBrooker/file-icons/compare/v1.6.5...v1.6.6
-[1.6.5]: https://github.com/DanBrooker/file-icons/compare/v1.6.3...v1.6.5
-[1.6.3]: https://github.com/DanBrooker/file-icons/compare/v1.6.1...v1.6.3
-[1.6.1]: https://github.com/DanBrooker/file-icons/compare/v1.5.8...v1.6.1
-[1.5.8]: https://github.com/DanBrooker/file-icons/compare/v1.5.7...v1.5.8
-[1.5.7]: https://github.com/DanBrooker/file-icons/compare/v1.5.6...v1.5.7
-[1.5.6]: https://github.com/DanBrooker/file-icons/compare/v1.5.5...v1.5.6
-[1.5.5]: https://github.com/DanBrooker/file-icons/compare/v1.5.4...v1.5.5
-[1.5.4]: https://github.com/DanBrooker/file-icons/compare/v1.5.3...v1.5.4
-[1.5.3]: https://github.com/DanBrooker/file-icons/compare/v1.5.2...v1.5.3
-[1.5.2]: https://github.com/DanBrooker/file-icons/compare/v1.5.1...v1.5.2
-[1.5.1]: https://github.com/DanBrooker/file-icons/compare/v1.5.0...v1.5.1
-[1.5.0]: https://github.com/DanBrooker/file-icons/compare/v1.4.11...v1.5.0
-[1.4.11]: https://github.com/DanBrooker/file-icons/compare/v1.4.10...v1.4.11
-[1.4.10]: https://github.com/DanBrooker/file-icons/compare/v1.4.9...v1.4.10
-[1.4.9]: https://github.com/DanBrooker/file-icons/compare/v1.4.8...v1.4.9
-[1.4.8]: https://github.com/DanBrooker/file-icons/compare/v1.4.7...v1.4.8
-[1.4.7]: https://github.com/DanBrooker/file-icons/compare/v1.4.6...v1.4.7
-[1.4.6]: https://github.com/DanBrooker/file-icons/compare/v1.4.5...v1.4.6
-[1.4.5]: https://github.com/DanBrooker/file-icons/compare/v1.4.4...v1.4.5
-[1.4.4]: https://github.com/DanBrooker/file-icons/compare/v1.4.3...v1.4.4
-[1.4.3]: https://github.com/DanBrooker/file-icons/compare/v1.4.2...v1.4.3
-[1.4.2]: https://github.com/DanBrooker/file-icons/compare/v1.4.1...v1.4.2
-[1.4.1]: https://github.com/DanBrooker/file-icons/compare/v1.4.0...v1.4.1
-[1.4.0]: https://github.com/DanBrooker/file-icons/compare/v1.3.6...v1.4.0
-[1.3.6]: https://github.com/DanBrooker/file-icons/compare/v1.3.5...v1.3.6
-[1.3.5]: https://github.com/DanBrooker/file-icons/compare/v1.3.4...v1.3.5
-[1.3.4]: https://github.com/DanBrooker/file-icons/compare/v1.3.3...v1.3.4
-[1.3.3]: https://github.com/DanBrooker/file-icons/compare/v1.3.2...v1.3.3
-[1.3.2]: https://github.com/DanBrooker/file-icons/compare/v1.3.1...v1.3.2
-[1.3.1]: https://github.com/DanBrooker/file-icons/compare/v1.3.0...v1.3.1
-[1.3.0]: https://github.com/DanBrooker/file-icons/compare/v1.2.6...v1.3.0
-[1.2.6]: https://github.com/DanBrooker/file-icons/compare/v1.2.5...v1.2.6
-[1.2.5]: https://github.com/DanBrooker/file-icons/compare/v1.2.4...v1.2.5
-[1.2.4]: https://github.com/DanBrooker/file-icons/compare/v1.2.3...v1.2.4
-[1.2.3]: https://github.com/DanBrooker/file-icons/compare/v1.2.2...v1.2.3
-[1.2.2]: https://github.com/DanBrooker/file-icons/compare/v1.2.1...v1.2.2
-[1.2.1]: https://github.com/DanBrooker/file-icons/compare/v1.2.0...v1.2.1
-[1.2.0]: https://github.com/DanBrooker/file-icons/compare/v1.1.0...v1.2.0
-[1.1.0]: https://github.com/DanBrooker/file-icons/compare/v1.0.2...v1.1.0
-[1.0.2]: https://github.com/DanBrooker/file-icons/compare/v1.0.1...v1.0.2
-[1.0.1]: https://github.com/DanBrooker/file-icons/compare/v1.0.0...v1.0.1
-[1.0.0]: https://github.com/DanBrooker/file-icons/compare/v0.3.0...v1.0.0
-[0.3.0]: https://github.com/DanBrooker/file-icons/compare/v0.2.0...v0.3.0
-[0.2.0]: https://github.com/DanBrooker/file-icons/compare/v0.1.0...v0.2.0
+[Unreleased]: https://github.com/DanBrooker/dvnk-icons/compare/v1.6.18...HEAD
+[1.6.18]: https://github.com/DanBrooker/dvnk-icons/compare/v1.6.17...v1.6.18
+[1.6.17]: https://github.com/DanBrooker/dvnk-icons/compare/v1.6.16...v1.6.17
+[1.6.16]: https://github.com/DanBrooker/dvnk-icons/compare/v1.6.15...v1.6.16
+[1.6.15]: https://github.com/DanBrooker/dvnk-icons/compare/v1.6.14...v1.6.15
+[1.6.14]: https://github.com/DanBrooker/dvnk-icons/compare/v1.6.13...v1.6.14
+[1.6.13]: https://github.com/DanBrooker/dvnk-icons/compare/v1.6.12...v1.6.13
+[1.6.12]: https://github.com/DanBrooker/dvnk-icons/compare/v1.6.11...v1.6.12
+[1.6.11]: https://github.com/DanBrooker/dvnk-icons/compare/v1.6.10...v1.6.11
+[1.6.10]: https://github.com/DanBrooker/dvnk-icons/compare/v1.6.8...v1.6.10
+[1.6.8]: https://github.com/DanBrooker/dvnk-icons/compare/v1.6.7...v1.6.8
+[1.6.7]: https://github.com/DanBrooker/dvnk-icons/compare/v1.6.6...v1.6.7
+[1.6.6]: https://github.com/DanBrooker/dvnk-icons/compare/v1.6.5...v1.6.6
+[1.6.5]: https://github.com/DanBrooker/dvnk-icons/compare/v1.6.3...v1.6.5
+[1.6.3]: https://github.com/DanBrooker/dvnk-icons/compare/v1.6.1...v1.6.3
+[1.6.1]: https://github.com/DanBrooker/dvnk-icons/compare/v1.5.8...v1.6.1
+[1.5.8]: https://github.com/DanBrooker/dvnk-icons/compare/v1.5.7...v1.5.8
+[1.5.7]: https://github.com/DanBrooker/dvnk-icons/compare/v1.5.6...v1.5.7
+[1.5.6]: https://github.com/DanBrooker/dvnk-icons/compare/v1.5.5...v1.5.6
+[1.5.5]: https://github.com/DanBrooker/dvnk-icons/compare/v1.5.4...v1.5.5
+[1.5.4]: https://github.com/DanBrooker/dvnk-icons/compare/v1.5.3...v1.5.4
+[1.5.3]: https://github.com/DanBrooker/dvnk-icons/compare/v1.5.2...v1.5.3
+[1.5.2]: https://github.com/DanBrooker/dvnk-icons/compare/v1.5.1...v1.5.2
+[1.5.1]: https://github.com/DanBrooker/dvnk-icons/compare/v1.5.0...v1.5.1
+[1.5.0]: https://github.com/DanBrooker/dvnk-icons/compare/v1.4.11...v1.5.0
+[1.4.11]: https://github.com/DanBrooker/dvnk-icons/compare/v1.4.10...v1.4.11
+[1.4.10]: https://github.com/DanBrooker/dvnk-icons/compare/v1.4.9...v1.4.10
+[1.4.9]: https://github.com/DanBrooker/dvnk-icons/compare/v1.4.8...v1.4.9
+[1.4.8]: https://github.com/DanBrooker/dvnk-icons/compare/v1.4.7...v1.4.8
+[1.4.7]: https://github.com/DanBrooker/dvnk-icons/compare/v1.4.6...v1.4.7
+[1.4.6]: https://github.com/DanBrooker/dvnk-icons/compare/v1.4.5...v1.4.6
+[1.4.5]: https://github.com/DanBrooker/dvnk-icons/compare/v1.4.4...v1.4.5
+[1.4.4]: https://github.com/DanBrooker/dvnk-icons/compare/v1.4.3...v1.4.4
+[1.4.3]: https://github.com/DanBrooker/dvnk-icons/compare/v1.4.2...v1.4.3
+[1.4.2]: https://github.com/DanBrooker/dvnk-icons/compare/v1.4.1...v1.4.2
+[1.4.1]: https://github.com/DanBrooker/dvnk-icons/compare/v1.4.0...v1.4.1
+[1.4.0]: https://github.com/DanBrooker/dvnk-icons/compare/v1.3.6...v1.4.0
+[1.3.6]: https://github.com/DanBrooker/dvnk-icons/compare/v1.3.5...v1.3.6
+[1.3.5]: https://github.com/DanBrooker/dvnk-icons/compare/v1.3.4...v1.3.5
+[1.3.4]: https://github.com/DanBrooker/dvnk-icons/compare/v1.3.3...v1.3.4
+[1.3.3]: https://github.com/DanBrooker/dvnk-icons/compare/v1.3.2...v1.3.3
+[1.3.2]: https://github.com/DanBrooker/dvnk-icons/compare/v1.3.1...v1.3.2
+[1.3.1]: https://github.com/DanBrooker/dvnk-icons/compare/v1.3.0...v1.3.1
+[1.3.0]: https://github.com/DanBrooker/dvnk-icons/compare/v1.2.6...v1.3.0
+[1.2.6]: https://github.com/DanBrooker/dvnk-icons/compare/v1.2.5...v1.2.6
+[1.2.5]: https://github.com/DanBrooker/dvnk-icons/compare/v1.2.4...v1.2.5
+[1.2.4]: https://github.com/DanBrooker/dvnk-icons/compare/v1.2.3...v1.2.4
+[1.2.3]: https://github.com/DanBrooker/dvnk-icons/compare/v1.2.2...v1.2.3
+[1.2.2]: https://github.com/DanBrooker/dvnk-icons/compare/v1.2.1...v1.2.2
+[1.2.1]: https://github.com/DanBrooker/dvnk-icons/compare/v1.2.0...v1.2.1
+[1.2.0]: https://github.com/DanBrooker/dvnk-icons/compare/v1.1.0...v1.2.0
+[1.1.0]: https://github.com/DanBrooker/dvnk-icons/compare/v1.0.2...v1.1.0
+[1.0.2]: https://github.com/DanBrooker/dvnk-icons/compare/v1.0.1...v1.0.2
+[1.0.1]: https://github.com/DanBrooker/dvnk-icons/compare/v1.0.0...v1.0.1
+[1.0.0]: https://github.com/DanBrooker/dvnk-icons/compare/v0.3.0...v1.0.0
+[0.3.0]: https://github.com/DanBrooker/dvnk-icons/compare/v0.2.0...v0.3.0
+[0.2.0]: https://github.com/DanBrooker/dvnk-icons/compare/v0.1.0...v0.2.0

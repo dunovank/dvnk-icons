@@ -19,21 +19,21 @@ module.exports =
 
   activate: (state) ->
     @disableSetiIcons true
-    atom.config.onDidChange 'file-icons.coloured', ({newValue, oldValue}) =>
+    atom.config.onDidChange 'dvnk-icons.coloured', ({newValue, oldValue}) =>
       @colour newValue
-    @colour atom.config.get 'file-icons.coloured'
+    @colour atom.config.get 'dvnk-icons.coloured'
 
-    atom.config.onDidChange 'file-icons.forceShow', ({newValue, oldValue}) =>
+    atom.config.onDidChange 'dvnk-icons.forceShow', ({newValue, oldValue}) =>
       @forceShow newValue
-    @forceShow atom.config.get 'file-icons.forceShow'
+    @forceShow atom.config.get 'dvnk-icons.forceShow'
 
-    atom.config.onDidChange 'file-icons.onChanges', ({newValue, oldValue}) =>
+    atom.config.onDidChange 'dvnk-icons.onChanges', ({newValue, oldValue}) =>
       @onChanges newValue
-    @onChanges atom.config.get 'file-icons.onChanges'
+    @onChanges atom.config.get 'dvnk-icons.onChanges'
 
-    atom.config.onDidChange 'file-icons.tabPaneIcon', ({newValue, oldValue}) =>
+    atom.config.onDidChange 'dvnk-icons.tabPaneIcon', ({newValue, oldValue}) =>
       @tabPaneIcon newValue
-    @tabPaneIcon atom.config.get 'file-icons.tabPaneIcon'
+    @tabPaneIcon atom.config.get 'dvnk-icons.tabPaneIcon'
     # console.log 'activate'
 
   deactivate: ->
@@ -49,19 +49,19 @@ module.exports =
 
   colour: (enable) ->
     body = document.querySelector 'body'
-    body.classList.toggle 'file-icons-colourless', !enable
+    body.classList.toggle 'dvnk-icons-colourless', !enable
 
   forceShow: (enable) ->
     body = document.querySelector 'body'
-    body.classList.toggle 'file-icons-force-show-icons', enable
+    body.classList.toggle 'dvnk-icons-force-show-icons', enable
 
   onChanges: (enable) ->
     body = document.querySelector 'body'
-    body.classList.toggle 'file-icons-on-changes', enable
+    body.classList.toggle 'dvnk-icons-on-changes', enable
 
   tabPaneIcon: (enable) ->
     body = document.querySelector 'body'
-    body.classList.toggle 'file-icons-tab-pane-icon', enable
+    body.classList.toggle 'dvnk-icons-tab-pane-icon', enable
 
   disableSetiIcons: (disable) ->
     workspaceElement = atom.views.getView(atom.workspace)

@@ -1120,8 +1120,8 @@
 	],
 	"height": 1024,
 	"metadata": {
-		"name": "file-icons",
-		"url": "https://github.com/DanBrooker/file-icons"
+		"name": "dvnk-icons",
+		"url": "https://github.com/DanBrooker/dvnk-icons"
 	},
 	"preferences": {
 		"showGlyphs": true,
@@ -1132,10 +1132,10 @@
 		"fontPref": {
 			"prefix": "icon-",
 			"metadata": {
-				"fontFamily": "file-icons",
+				"fontFamily": "dvnk-icons",
 				"majorVersion": 1,
 				"minorVersion": 0,
-				"fontURL": "https://github.com/DanBrooker/file-icons"
+				"fontURL": "https://github.com/DanBrooker/dvnk-icons"
 			},
 			"metrics": {
 				"emSize": 1024,

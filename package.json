@@ -11,7 +11,7 @@
     "atom": ">0.181.0"
   },
   "dependencies": {},
-  "readme": "# file-icons\n\nA fork of DanBrooker's original file-icons package\n",
+  "readme": "# dvnk-icons\n\nA fork of DanBrooker's original dvnk-icons package\n",
   "readmeFilename": "README.md",
   "bugs": {
     "url": "https://github.com/dunovank/dvnk-icons/issues"
